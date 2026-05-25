@@ -1,5 +1,5 @@
 🇬🇧
-Details:
+# Details:
 - Continuation of the Astro-Adventure-3D-Unity-Developer-Module-31 project;
 - Added one more enemy and a boss;
 - Boss appearance using a trigger. Thus, when the player activates the trigger, the enemy appears, starts walking and attacking;
@@ -7,7 +7,7 @@ Details:
 - Enemies "look" at the main character, done by: rotation and forward vector pointing: transform.LookAt(transform);
 
 🇧🇷
-Detalhes:
+# Detalhes:
 - Continuidade do projeto Astro-Adventure-3D-Unity-Developer-Module-31;
 - Adicionado mais um inimigo e um chefão;
 - Surgimento do chefão, usando um trigger. Assim, quando o jogador ativa o trigger, o inimigo aparece, começa a andar e a atacar;
